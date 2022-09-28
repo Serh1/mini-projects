@@ -4,7 +4,7 @@
 
 ### Demos:
 
- [:pencil2:Auto-Writer](https://serh1.github.io/mini-projects/2-auto-writer) -
+ [:pencil2:Auto-Writer](https://serh1.github.io/mini-projects/2-auto-write) -
  [:heavy_division_sign:Calculator](https://serh1.github.io/mini-projects/3-calculator) -
  [:hamburger:Hamburger](https://serh1.github.io/mini-projects/4-hamburger) 
  <br>
